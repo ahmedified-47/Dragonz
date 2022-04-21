@@ -4,7 +4,7 @@ require_once('settings.php');
 // The @ operator suppresses the display of any error messages
 // mysqli_connect returns false if connection failed, otherwise a connection value
 $conn = @mysqli_connect($host,
-    $user,
+    $user, 
     $pwd,
     $sql_db
 );
