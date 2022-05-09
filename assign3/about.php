@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 include ("header.php");
-include("navbar.php");
+include("navbar.php"); 
 ?>
   <body>
 
