@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php
+<?php 
 include ("header.php");
 include("navbar.php");
 include("settings.php");
