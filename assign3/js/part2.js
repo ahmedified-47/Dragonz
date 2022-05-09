@@ -1,5 +1,5 @@
  "use strict";
-$(document).ready(function () {
+$(document).ready(function () { 
   // submitting data to payment.html
   var debug = false;
   $("#submitForm").on("click", function (e) {
