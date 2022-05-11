@@ -16,43 +16,40 @@ include("navbar.php");
           <div class="col-md-5">
             <a href="https://www.lg.com/us/tvs">
               <h1 class="bg_heading pt-5 mt-5">
-                The Power of Electro OLED TV
+                Goto Grocery Store
               </h1></a
             >
             <p class="text_bg pt-3 pb-3">
-              Millions of SELF-LIT PiXELS and the latest technology deliver
-              sharp pictures, swift response times and smooth motion, all in a
-              slim design.
+              A Everyday Grocery
             </p>
             <a href="product.php"
-              ><button class="btn">Shop OLED TVS</button></a
+              ><button class="btn">Check Product List</button></a
             >
           </div>
         </div>
       </div>
     </section>
 
-    <!-- TV section  -->
+    <!-- TV section 
     <section>
       <div class="container pb-5">
         <div class="row">
           <div class="col-md-12 pb-5">
             <hr />
-            <h1 class="text-center pt-3">Which Electro TV is right for you?</h1>
+            <h1 class="text-center pt-3">Which product is right for you?</h1>
           </div>
           <div class="col-md-3">
             <div class="card">
               <a href="https://www.lg.com/us/tvs"
                 ><img
                   class="card-img-top img-fluid"
-                  src="images/products/oled-tv-icon.png"
+                  src="images/products/product-pic-1.jpg"
                   alt="OLED TV"
               /></a>
               <div class="card-body">
-                <h5 class="card-title">OLED TVs</h5>
+                <h5 class="card-title">Strawberries</h5>
                 <p class="card-text">
-                  SELF-LIT PiXELS produce perfect black and put OLEDs in a class
-                  of their own.
+                  Fresh Fruits at discounted price.
                 </p>
               </div>
               <div class="card-footer text-center bg-light">
@@ -65,14 +62,13 @@ include("navbar.php");
             <div class="card">
               <img
                 class="card-img-top img-fluid"
-                src="images/products/nanocallTV-icon.png"
+                src="images/products/product-pic-2.jpg"
                 alt="OLED TV"
               />
               <div class="card-body">
-                <h5 class="card-title">NanoCell TVs</h5>
+                <h5 class="card-title">Apricot</h5>
                 <p class="card-text">
-                  Nano particles render true color with our most advanced LED
-                  technology yet
+                  Organic Apricots by sunny creek.
                 </p>
               </div>
               <div class="card-footer text-center bg-light">
@@ -86,14 +82,13 @@ include("navbar.php");
               <a href="https://www.lg.com/us/tvs">
                 <img
                   class="card-img-top img-fluid"
-                  src="images/products/4k-ultraHD-icon.png"
+                  src="images/products/product-pic-3.jpg"
                   alt="OLED TV"
               /></a>
               <div class="card-body">
-                <h5 class="card-title">4K Ultra HD TVs</h5>
+                <h5 class="card-title">Fair & Lovely</h5>
                 <p class="card-text">
-                  The benchmark of picture quality uses active HDR for a
-                  cinematic experience.
+                  Fair & lvely is now Glow & lovely.
                 </p>
               </div>
               <div class="card-footer text-center bg-light">
@@ -107,14 +102,13 @@ include("navbar.php");
               <a href="https://www.lg.com/us/tvs">
                 <img
                   class="card-img-top img-fluid"
-                  src="images/products/8k-icon.png"
+                  src="images/products/product-pic-4.jpg"
                   alt="OLED TV"
               /></a>
               <div class="card-body">
-                <h5 class="card-title">OLED TVs</h5>
+                <h5 class="card-title">Banana</h5>
                 <p class="card-text">
-                  The ultimate in screen resolution, our range of 8K TVs offer
-                  rich, stunning picture.
+                  Bananas orgainc
                 </p>
               </div>
               <div class="card-footer text-center bg-light">
@@ -124,7 +118,7 @@ include("navbar.php");
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Owl Carousel starts here  -->
     <div class="container">
@@ -142,17 +136,17 @@ include("navbar.php");
       <div>
         <div class="card border-0" style="width: 18rem">
           <img
-            src="images/person/person_1.jpg"
+            src="images/person/2.jpeg"
             class="card-img-top rounded-circle w-50 mx-auto"
             alt="..."
           />
           <div class="card-body border-right border-left">
-            <h5 class="card-title">Garren Smith</h5>
+            <h5 class="card-title">Aidan Cheung</h5>
             <p class="pt-4" style="opacity: 0.7">
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia
             </p>
-            <h5 class="pt-3">Garren Smith</h5>
+            <h5 class="pt-3">Aidan Cheung</h5>
             <h6 class="pt-2" style="opacity: 0.7">System Analyst</h6>
           </div>
         </div>
@@ -161,17 +155,17 @@ include("navbar.php");
       <div>
         <div class="card border-0" style="width: 18rem">
           <img
-            src="images/person/person_2.jpg"
+            src="images/person/1.jpeg"
             class="card-img-top rounded-circle w-50 mx-auto"
             alt="..."
           />
           <div class="card-body border-right border-left">
-            <h5 class="card-title">Alex Standell</h5>
+            <h5 class="card-title">Ahmed</h5>
             <p class="pt-4" style="opacity: 0.7">
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia
             </p>
-            <h5 class="pt-3">Garren Smith</h5>
+            <h5 class="pt-3">Ahmed</h5>
             <h6 class="pt-2" style="opacity: 0.7">Marketing Manager</h6>
           </div>
         </div>
@@ -180,17 +174,17 @@ include("navbar.php");
       <div>
         <div class="card border-0" style="width: 18rem">
           <img
-            src="images/person/person_3.jpg"
+            src="images/person/3.jpeg"
             class="card-img-top rounded-circle w-50 mx-auto"
             alt="..."
           />
           <div class="card-body border-right border-left">
-            <h5 class="card-title">John Hopkins</h5>
+            <h5 class="card-title">Ayesha Akhter</h5>
             <p class="pt-4" style="opacity: 0.7">
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia
             </p>
-            <h5 class="pt-3">Garren Smith</h5>
+            <h5 class="pt-3">Ayesha Akhter</h5>
             <h6 class="pt-2" style="opacity: 0.7">Web Developer</h6>
           </div>
         </div>
